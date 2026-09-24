@@ -80,8 +80,8 @@
 # a = a ^ b                                     #(a^b) ^ a = a ^ b ^ a = b                   #20
 # print(a, b)                                   #20 10
 
-# #single line comment                          # #
-# '''multi                                      # '''...........'''
-# line
-# comment
+# #single line comment                          # #10 20
+# '''multi                                      # '''10
+# line                                               20
+# comment                                         '''
 # '''
